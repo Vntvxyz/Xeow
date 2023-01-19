@@ -71,7 +71,7 @@ def mthd(screen):
 
 ###COPYRIGHT tool###
 def si():
-    print('       \x1b[38;2;0;255;255m[ \x1b[38;2;233;233;233mKata \x1b[38;2;0;255;255m] | \x1b[38;2;233;233;233mWelcome to Kata DDoS! \x1b[38;2;0;255;255m| \x1b[38;2;233;233;233mOwner: @katavn \x1b[38;2;0;255;255m| \x1b[38;2;233;233;233mVersion: 1')
+    print('       \x1b[38;2;0;255;255m[ \x1b[38;2;233;233;233mXEOW \x1b[38;2;0;255;255m] | \x1b[38;2;233;233;233mWelcome to XEOW DDoS! \x1b[38;2;0;255;255m| \x1b[38;2;233;233;233mOwner: @ThanhVinh \x1b[38;2;0;255;255m| \x1b[38;2;233;233;233mVersion: 1')
 
 ###My ip####
 def mip():
@@ -163,7 +163,7 @@ def menu():
 def main():
     menu()
     while(True):
-        cnc = input(f"""\x1b[38;2;239;239;239m┏━━[\x1b[38;2;255;99;71mKata\x1b[38;2;239;239;239m] - [\x1b[38;2;255;234;0m{uname}\x1b[38;2;239;239;239m]\n\x1b[38;2;239;239;239m┗━━➤ """)
+        cnc = input(f"""\x1b[38;2;239;239;239m┏━━[\x1b[38;2;255;99;71mNgThanhVinh\x1b[38;2;239;239;239m] - [\x1b[38;2;255;234;0m{uname}\x1b[38;2;239;239;239m]\n\x1b[38;2;239;239;239m┗━━➤ """)
         if cnc == "METHODS" or cnc == "methods" or cnc == "Methods":
             meth()
         elif cnc == "CLEAR" or cnc == "clear" or cnc == "cls":
