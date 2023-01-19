@@ -1,6 +1,5 @@
 # Kurama-DDoS
-git clone https://github.com/Vntvxyz/Kurama-DDoS//
-cd KATA-ddos-panel
+
 npm i requests
 npm i https-proxy-agent
 npm i crypto-random-string
