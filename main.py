@@ -3,6 +3,7 @@ import os
 import requests
 import random
 from pystyle import Colors, Colorate, Center
+from asciimatics.effects import BannerText, Print, Scroll
 from asciimatics.renderers import ColourImageFile, FigletText, ImageFile, StaticRenderer
 from asciimatics.scene import Scene
 from asciimatics.screen import Screen
